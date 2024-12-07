@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1",
+    "name": "Product 1",
+    "price": 10000,
+    "stock": 50,
+    "discount": 10,
+    "thumbnail": "thumbnail1.jpg",
+    "createdAt": "2023-10-01T00:00:00.000Z",
+    "updatedAt": "2023-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Product 2",
+    "price": 15000,
+    "stock": 100,
+    "discount": 20,
+    "thumbnail": "thumbnail2.jpg",
+    "createdAt": "2023-10-01T00:00:00.000Z",
+    "updatedAt": "2023-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Product 3",
+    "price": 20000,
+    "stock": 75,
+    "discount": 15,
+    "thumbnail": "thumbnail3.jpg",
+    "createdAt": "2023-10-01T00:00:00.000Z",
+    "updatedAt": "2023-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "Product 4",
+    "price": 25000,
+    "stock": 60,
+    "discount": 5,
+    "thumbnail": "thumbnail4.jpg",
+    "createdAt": "2023-10-01T00:00:00.000Z",
+    "updatedAt": "2023-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "name": "Product 5",
+    "price": 30000,
+    "stock": 80,
+    "discount": 25,
+    "thumbnail": "thumbnail5.jpg",
+    "createdAt": "2023-10-01T00:00:00.000Z",
+    "updatedAt": "2023-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "6",
+    "name": "Product 6",
+    "price": 35000,
+    "stock": 90,
+    "discount": 30,
+    "thumbnail": "thumbnail6.jpg",
+    "createdAt": "2023-10-01T00:00:00.000Z",
+    "updatedAt": "2023-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "7",
+    "name": "Product 7",
+    "price": 40000,
+    "stock": 40,
+    "discount": 20,
+    "thumbnail": "thumbnail7.jpg",
+    "createdAt": "2023-10-01T00:00:00.000Z",
+    "updatedAt": "2023-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "8",
+    "name": "Product 8",
+    "price": 45000,
+    "stock": 30,
+    "discount": 10,
+    "thumbnail": "thumbnail8.jpg",
+    "createdAt": "2023-10-01T00:00:00.000Z",
+    "updatedAt": "2023-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "9",
+    "name": "Product 9",
+    "price": 50000,
+    "stock": 20,
+    "discount": 5,
+    "thumbnail": "thumbnail9.jpg",
+    "createdAt": "2023-10-01T00:00:00.000Z",
+    "updatedAt": "2023-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "10",
+    "name": "Product 10",
+    "price": 55000,
+    "stock": 10,
+    "discount": 0,
+    "thumbnail": "thumbnail10.jpg",
+    "createdAt": "2023-10-01T00:00:00.000Z",
+    "updatedAt": "2023-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "11",
+    "name": "Product 11",
+    "price": 60000,
+    "stock": 25,
+    "discount": 10,
+    "thumbnail": "thumbnail11.jpg",
+    "createdAt": "2023-10-01T00:00:00.000Z",
+    "updatedAt": "2023-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "12",
+    "name": "Product 12",
+    "price": 65000,
+    "stock": 35,
+    "discount": 15,
+    "thumbnail": "thumbnail12.jpg",
+    "createdAt": "2023-10-01T00:00:00.000Z",
+    "updatedAt": "2023-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "13",
+    "name": "Product 13",
+    "price": 70000,
+    "stock": 45,
+    "discount": 20,
+    "thumbnail": "thumbnail13.jpg",
+    "createdAt": "2023-10-01T00:00:00.000Z",
+    "updatedAt": "2023-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "14",
+    "name": "Product 14",
+    "price": 75000,
+    "stock": 55,
+    "discount": 25,
+    "thumbnail": "thumbnail14.jpg",
+    "createdAt": "2023-10-01T00:00:00.000Z",
+    "updatedAt": "2023-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "15",
+    "name": "Product 15",
+    "price": 80000,
+    "stock": 65,
+    "discount": 30,
+    "thumbnail": "thumbnail15.jpg",
+    "createdAt": "2023-10-01T00:00:00.000Z",
+    "updatedAt": "2023-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "16",
+    "name": "Product 16",
+    "price": 85000,
+    "stock": 75,
+    "discount": 35,
+    "thumbnail": "thumbnail16.jpg",
+    "createdAt": "2023-10-01T00:00:00.000Z",
+    "updatedAt": "2023-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "17",
+    "name": "Product 17",
+    "price": 90000,
+    "stock": 85,
+    "discount": 40,
+    "thumbnail": "thumbnail17.jpg",
+    "createdAt": "2023-10-01T00:00:00.000Z",
+    "updatedAt": "2023-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "18",
+    "name": "Product 18",
+    "price": 95000,
+    "stock": 95,
+    "discount": 45,
+    "thumbnail": "thumbnail18.jpg",
+    "createdAt": "2023-10-01T00:00:00.000Z",
+    "updatedAt": "2023-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "19",
+    "name": "Product 19",
+    "price": 100000,
+    "stock": 105,
+    "discount": 50,
+    "thumbnail": "thumbnail19.jpg",
+    "createdAt": "2023-10-01T00:00:00.000Z",
+    "updatedAt": "2023-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "20",
+    "name": "Product 20",
+    "price": 105000,
+    "stock": 115,
+    "discount": 55,
+    "thumbnail": "thumbnail20.jpg",
+    "createdAt": "2023-10-01T00:00:00.000Z",
+    "updatedAt": "2023-10-01T00:00:00.000Z"
+  }
+]
